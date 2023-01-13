@@ -22,7 +22,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>frontend-end engineer</p>
+        <p> frontend-end engineer</p>
         <p>
           Welcome to my blog website. This website is built by next.js and Vercel.
         </p>
